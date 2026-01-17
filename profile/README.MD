@@ -1,8 +1,34 @@
 
 # 🚀TechQuitoesTechnologies
 
+# <p align="center">TechQuitoes Technologies</p>
 
-# 🚀 TechQuitoes Technologies
+<p align="center">
+  <img src="https://github.com/TechQuitoes/.github/blob/main/profile/your-banner-image.jpg?raw=true" width="100%" alt="TechQuitoes Banner">
+</p>
+
+<p align="center">
+  <b>Transforming Ideas into Intelligent Digital Realities</b>
+</p>
+
+---
+
+### 🌟 What Sets Us Apart?
+| ⚡ Full-Stack | 🤖 AI & Automation | 🎨 Design & 3D |
+| :--- | :--- | :--- |
+| Scalable MERN/Next.js | Custom LLMs & Slack Bots | techQ 3D Studio & UI/UX |
+
+---
+
+### 📂 Featured Impact
+* **StudyNotion:** A high-performance Ed-Tech platform built on the MERN stack.
+* **Automation Suite:** Python-based enterprise bots for seamless communication.
+
+---
+
+### 📬 Let's Build Something Extraordinary
+- 🌐 [techquitoes.com](https://techquitoes.com/)
+- 📧 [contact@techquitoes.com](mailto:contact@techquitoes.com)
 ### *Transforming Ideas into Intelligent Digital Realities*
 
 TechQuitoes is a full-cycle software development hub based in India. We specialize in building **high-performance web apps**, **automated workflows**, and **data-driven dashboards** that help businesses scale.
