@@ -10,9 +10,40 @@
 </p>
 
 ---
+## 🌟 What Sets Us Apart?
 
-## 📊 Business Operations & Focus
-We balance our expertise across three core pillars. Below is our resource distribution for project delivery:
+<table border="0">
+  <tr>
+    <td>
+      <h3>🚀 Core Expertise</h3>
+      <ul>
+        <li><b>Full-Stack:</b> Scalable web & mobile infrastructure.</li>
+        <li><b>AI & Automation:</b> Intelligent enterprise solutions.</li>
+        <li><b>Design:</b> Immersive UI/UX and 3D Studio.</li>
+      </ul>
+    </td>
+    <td>
+      <h3>🗺️ Our Service Ecosystem</h3>
+      <ul>
+        <li><b>Web/Mobile:</b> Custom platforms & cross-platform apps.</li>
+        <li><b>Data/Design:</b> Advanced analytics & brand identity.</li>
+        <li><b>Cloud/DevOps:</b> Reliable hosting and automation.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 Featured Impact
+
+* **Ed-Tech Excellence:** Powering platforms like StudyNotion with MERN stack efficiency.
+* **Automation Suite:** Developing intelligent bots for Slack and Telegram workflows.
+* **Digital Commerce:** Building high-conversion e-commerce engines for global brands.
+
+---
+
+
 
 | Service Category | Operational Focus | Primary Tech |
 | :--- | :---: | :--- |
@@ -59,6 +90,13 @@ How we move from **Idea** to **Deployment**:
 4. **Optimization:** Data analytics and performance monitoring.
 
 ---
+## 🤝 Let's Build Something Extraordinary
+
+We are always looking for innovative projects and open-source collaborations.
+## 📊 Business Operations & Focus
+We balance our expertise across three core pillars. Below is our resource distribution for project delivery:
+
+
 
 ## 📬 Connect With Us
 - 🌍 **Official Website:** [techquitoes.com](https://techquitoes.com/)
