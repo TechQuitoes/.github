@@ -1,4 +1,4 @@
-# <p align="center">🚀 TechQuitoes Technologies</p>
+# <p align="center"> TechQuitoes Technologies</p>
 
 <p align="center">
   <img src="https://github.com/TechQuitoes/.github/blob/main/profile/banner.png" width="100%" alt="TechQuitoes Banner">
