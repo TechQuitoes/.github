@@ -1,7 +1,7 @@
- <p align="center">  <img src="https://github.com/TechQuitoes/.github/blob/main/profile/TQ_logo.png" hieght="50px" width=""alt="TechQuitoes Logo"> TechQuitoes Technologies</p>
+ <p align="center">  <img src="https://github.com/TechQuitoes/.github/blob/main/profile/TQ_logo.png" hieght="50px" width=""alt="TechQuitoes Logo"> # TechQuitoes Technologies</p>
 
 <p align="center">
-  <img src="https://github.com/TechQuitoes/.github/blob/main/profile/TQ_logo" width="100%" alt="TechQuitoes Banner">
+  <img src="https://github.com/TechQuitoes/.github/blob/main/profile/Techquitoesbanner.png" alt="TechQuitoes Banner">
 </p>
 
 <p align="center">
