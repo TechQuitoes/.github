@@ -5,7 +5,7 @@
     style="vertical-align: middle;" 
     alt="TechQuitoes Logo"
   />
-  <h2 align="center">TechQuitoes Technologies</h2>
+ <strong> <h2 align="center">TechQuitoes Technologies</h2></strong>
 </p>
 
 
